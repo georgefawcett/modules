@@ -1,0 +1,22 @@
+{
+  "name": "day5project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "callmodule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgefawcett/modules.git"
+  },
+  "author": "george",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgefawcett/modules/issues"
+  },
+  "homepage": "https://github.com/georgefawcett/modules#readme",
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
